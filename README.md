@@ -1,2 +1,3 @@
 # Start
-I start a github repo
+i edit the readme.md
+
